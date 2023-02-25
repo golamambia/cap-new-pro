@@ -1,0 +1,7 @@
+{
+  "name": "cap-newfeb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
